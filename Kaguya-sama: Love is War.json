@@ -4,5 +4,16 @@
   "artist": "赤坂アカ",
   "author": "赤坂アカ",
   "cover": "https://guya.cubari.moe/media/manga/Kaguya-Wants-To-Be-Confessed-To/volume_covers/25/18665.webp",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1654240823",
+      "groups": {
+        "test group 1": [
+          "https://i.imgur.com/dWeDE50.png"
+        ]
+      }
+    }
+  }
 }
