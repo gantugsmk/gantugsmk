@@ -4,5 +4,16 @@
   "artist": "G3-Ida",
   "author": "G3-Ida",
   "cover": "https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/c/c1/TalkVolume6cover.jpg/revision/latest?cb=20220303163117",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "0-Заавар",
+      "volume": "",
+      "last_updated": "1654255760",
+      "groups": {
+        "Уншиж эхлэхийн өмнөх заавар ": [
+          "https://i.imgur.com/ePBeo9X.png"
+        ]
+      }
+    }
+  }
 }
